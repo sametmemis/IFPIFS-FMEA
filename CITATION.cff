@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "IFPIFS-FMEA: Hesitation-aware failure mode and effects analysis via intuitionistic fuzzy parameterized intuitionistic fuzzy soft matrices"
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+repository-code: "https://github.com/sametmemis/IFPIFS-FMEA"
+authors:
+  - family-names: "Memiş"
+    given-names: "Samet"
+    affiliation: "Bandırma Onyedi Eylül University"
+    orcid: "https://orcid.org/0000-0002-0958-5872"
+  - family-names: "Ceylan"
+    given-names: "Bulut Ozan"
+    affiliation: "Bandırma Onyedi Eylül University"
+keywords:
+  - FMEA
+  - intuitionistic fuzzy sets
+  - ifpifs-matrices
+  - soft decision-making
+  - marine engineering
+  - risk prioritization
